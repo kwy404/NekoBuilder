@@ -1,3 +1,3 @@
 # NekoBuilder
 
-Criador de sites
+Criador de sites com amigos
